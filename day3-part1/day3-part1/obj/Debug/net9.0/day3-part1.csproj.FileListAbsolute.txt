@@ -1,0 +1,16 @@
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/bin/Debug/net9.0/input.txt
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/bin/Debug/net9.0/day3-part1
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/bin/Debug/net9.0/day3-part1.deps.json
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/bin/Debug/net9.0/day3-part1.runtimeconfig.json
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/bin/Debug/net9.0/day3-part1.dll
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/bin/Debug/net9.0/day3-part1.pdb
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.AssemblyInfoInputs.cache
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.AssemblyInfo.cs
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.csproj.CoreCompileInputs.cache
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.sourcelink.json
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.dll
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/refint/day3-part1.dll
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.pdb
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/day3-part1.genruntimeconfig.cache
+/home/fabio/Coding/advent-of-code-2025/day3-part1/day3-part1/obj/Debug/net9.0/ref/day3-part1.dll
